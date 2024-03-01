@@ -12,7 +12,7 @@ The aim of this project is to provide a simple yet effective tool for extracting
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/maheshsathe07/License_Plate_Extraction.git
+   git clone https://github.com/maheshsathe07/License-Plate-Number-Extraction.git
    ```
 
 2. **Install Dependencies:**
