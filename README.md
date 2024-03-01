@@ -24,7 +24,7 @@ The aim of this project is to provide a simple yet effective tool for extracting
 
 1. **Run the Application:**
    ```
-   python license_plate_extraction.py
+   python RealTimeNumberPlateDetection.py
    ```
 
 2. **Input Data:**
